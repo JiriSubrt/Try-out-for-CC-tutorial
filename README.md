@@ -7,3 +7,5 @@
 - email: subrt.jirka@gmail.com
 
 - new text from rstudio
+
+- Another new text from rstudio
